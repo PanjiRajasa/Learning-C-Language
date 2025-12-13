@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    //sekumpulan printf statement
     printf("Test...\n");
     printf("Test2\n");
 
