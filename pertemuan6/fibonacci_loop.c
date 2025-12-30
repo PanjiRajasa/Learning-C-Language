@@ -7,7 +7,7 @@ int main() {
     int sum = 0;
 
     //loop yang berjalan 18 kali
-    for(int i = 0; i < 17; i++) {
+    for(int i = 0; i < 18; i++) {
         sum = angka1 + angka2;
         printf("%d\n", sum);
         angka1 = angka2;
